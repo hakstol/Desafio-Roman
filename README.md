@@ -39,8 +39,8 @@ vinculados.</p>
 <p>- Instale o Android Studio, é necessário para utilizar a aplicação AVD</p>
 <p>- Configure um dispositivo mobile compatível com a aplicação (disponível em "Documentação/Configuração dispositivo mobile")</p>
 <p>- Por uma interface de linha de comando, no mesmo caminho de diretórios que sua aplicação está digite: </p> 
-  <p><p>* npm/yarn install</p></p>
-  <p><p>* npx react-native run-android</p></p>
+<p><strong>* npm/yarn install</strong></p>
+<p><strong>* npx react-native run-android</strong></p>
 <h2>Desenvolvedores</h2>
 <p><img align = "center" alt = "SQL Server" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> Raul  </p>
 <p><img align = "center" alt = "Figma" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> Leonardo Vitor</p>
